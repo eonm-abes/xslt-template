@@ -32,7 +32,7 @@ __`make clean`__ : nettoie le dossier [`output/`](output) et les résultats des 
 
 [`output/`](output): Contient les documents générés par la transformation XSL.
 
-[`script/`](script) : Contient les scripts d'installation de Saxon et de Xspec, les scripts de lancement des tests unitaires et de transformation des données. Ces scripts sont appelés depuis le [`Makefile`](Makefile).
+[`scripts/`](scripts) : Contient les scripts d'installation de Saxon et de Xspec, les scripts de lancement des tests unitaires et de transformation des données. Ces scripts sont appelés depuis le [`Makefile`](Makefile).
 
 [`sample/`](sample) : Contient des échantillons de données qui peuvent être transformées grâce à XSLT.
 
