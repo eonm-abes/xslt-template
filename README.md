@@ -3,7 +3,7 @@
 # XSLT-Template
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-[![Github template](https://img.shields.io/badge/USE%20THIS%20REPO%20AS%20GITHUB20TEMPLATE-blue?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/eonm-abes/xslt-template/generate)
+[![Github template](https://img.shields.io/badge/USE%20THIS%20REPO%20AS%20GITHUB%20TEMPLATE-blue?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/eonm-abes/xslt-template/generate)
 
 
 Ce dépôt sert de modèle pour le développement de projets XSLT
@@ -14,7 +14,7 @@ Ce dépôt sert de modèle pour le développement de projets XSLT
 
 En utilisant Ce dépôt comme modèle sur Github :
 
-[![Github template](https://img.shields.io/badge/USE%20THIS%20REPO%20AS%20GITHUB20TEMPLATE-blue?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/eonm-abes/xslt-template/generate)
+[![Github template](https://img.shields.io/badge/USE%20THIS%20REPO%20AS%20GITHUB%20TEMPLATE-blue?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/eonm-abes/xslt-template/generate)
 
 Ou en clonnant ce dépôt :
 
