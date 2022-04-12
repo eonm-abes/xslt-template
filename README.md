@@ -2,7 +2,7 @@
 
 # XSLT-Template
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)](https://GitHub.com/eonm-abes/xslt-template/graphs/commit-activity)
 [![Github template](https://img.shields.io/badge/USE%20THIS%20REPO%20AS%20GITHUB%20TEMPLATE-blue?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/eonm-abes/xslt-template/generate)
 
 
